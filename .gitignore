@@ -1,5 +1,7 @@
 # netbeans project files
 nbproject
 
-assets
-protected/runtime
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
