@@ -8,6 +8,8 @@
 http://localhost/feedback_test/
 ~~~
 
+Убедитесь что папки `protected/runtime` и `assets` доступны для записи пользователю от имени которого запущен веб сервер
+
 ### БД:
 Разверните дамп базы, который находится в `protected/data/schema.mysql.sql`
 
